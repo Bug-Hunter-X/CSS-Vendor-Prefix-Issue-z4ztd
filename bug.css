@@ -1,0 +1,1 @@
+The CSS code uses a vendor prefix that is no longer necessary or supported, causing the styles to not apply correctly in certain browsers. For example, using "-webkit-" or "-moz-" prefixes for properties that have standard support can lead to inconsistencies.
