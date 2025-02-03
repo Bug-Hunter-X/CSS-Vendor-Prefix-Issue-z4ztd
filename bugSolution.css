@@ -1,0 +1,10 @@
+/* Corrected CSS code without vendor prefixes */
+.element {
+  /* Use standard properties without vendor prefixes */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.3s ease;
+  /* ... other styles ... */
+}
+/* No more vendor prefixes like -webkit- or -moz- */
